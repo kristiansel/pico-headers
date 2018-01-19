@@ -1,2 +1,2 @@
 # pico-headers
-A collection of small and useful c++ header libraries. The libraries are not meant to be full featured and ready for production. They are minimalist implementations meant to be good for learning and building upon.
+A collection of small useful cross-platform c++ header libraries. The libraries are not production-ready, but provide a good starting point for learning.
